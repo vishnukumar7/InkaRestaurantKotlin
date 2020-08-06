@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cart Item</string>
+    <string name="inka_restaurant">Inka Restaurant</string>
+    <string name="dine_in">  Dine-in</string>
+    <string name="take_way">  Take-way</string>
+    <string name="show_more"><u>show more</u></string>
+</resources>
